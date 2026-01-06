@@ -1,0 +1,13 @@
+# Object files
+*.o
+*.ko
+*.mod.c
+*.mod.o
+
+# Build artifacts
+.*.cmd
+Module.symvers
+modules.order
+
+# Executables (앱 테스트용 실행파일이 있다면)
+assign2-2
