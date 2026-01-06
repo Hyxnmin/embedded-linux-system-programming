@@ -69,3 +69,7 @@ dmesg | tail
 1.  **Kernel Mechanics:** 커널 모듈의 생명주기(`init`, `exit`)와 커널 심볼 테이블에 대한 이해.
 2.  **Resource Management:** `request_irq`, `gpio_request` 등을 통한 하드웨어 리소스 할당 및 해제와 메모리 누수 방지.
 3.  **Low-Level Debugging:** `dmesg`와 커널 로그(`printk`)를 활용한 트러블 슈팅 능력.
+
+## 👥 Contributors
+이 프로젝트는 다음 팀원과 함께 공동 개발했습니다.
+* **조승훈** ([@Jossi02](https://github.com/Jossi02))
